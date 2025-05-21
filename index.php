@@ -38,21 +38,21 @@
         <h2>My Projects</h2>
         <div class="projects-grid">
             <div class="project-card">
-                <img src="https://cdn.pixabay.com/photo/2018/05/04/20/01/website-3374825_1280.jpg" alt="Project 1">
-                <h3>Project 1</h3>
-                <p>Description of project 1</p>
+                <img src="https://cdn.pixabay.com/photo/2018/05/04/20/01/website-3374825_1280.jpg" alt="Grade Calculator">
+                <h3>Grade Calculator</h3>
+                <p>An interactive web application that helps students calculate and track their academic grades across various courses and assignments.</p>
                 <a href="https://grade-calculator-xi.vercel.app/" class="btn">View Project</a>
             </div>
             <div class="project-card">
-                <img src="https://cdn.pixabay.com/photo/2018/01/28/10/59/web-3113279_1280.jpg" alt="Project 2">
-                <h3>Project 2</h3>
-                <p>Description of project 2</p>
+                <img src="https://cdn.pixabay.com/photo/2018/01/28/10/59/web-3113279_1280.jpg" alt="Title Generator">
+                <h3>Capstone Title Generator</h3>
+                <p>A creative tool that generates unique and engaging titles for capstone projects, research papers, and academic assignments.</p>
                 <a href="https://capstone-title-gen-three.vercel.app/" class="btn">View Project</a>
             </div>
             <div class="project-card">
-                <img src="	https://enzo-dev-portfolio.vercel.app/image/best-chat-apps-to-know.avif" alt="Project 3">
-                <h3>Project 3</h3>
-                <p>Description of project 3</p>
+                <img src="https://enzo-dev-portfolio.vercel.app/image/best-chat-apps-to-know.avif" alt="Weather App">
+                <h3>Weather Web Application</h3>
+                <p>A responsive React-based weather application providing real-time forecasts, temperature data, and weather conditions for locations worldwide.</p>
                 <a href="https://weather-project-react-iota.vercel.app/" class="btn">View Project</a>
             </div>
         </div>
@@ -61,7 +61,7 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <div class="contact-content">
-            <p>Get in touch with me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+            <p>Get in touch with me at: <a href="mailto:parane.enzo@gmail.com">parane.enzo@gmail.com</a></p>
         </div>
     </section>
 
