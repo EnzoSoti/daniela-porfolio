@@ -30,7 +30,7 @@
         <h2>About Me</h2>
         <div class="about-content">
             <img src="images\me.jpg" alt="Daniela's Photo" class="profile-img">
-            <p>I'm a passionate web developer with experience in creating responsive and user-friendly websites.</p>
+            <p>I'm a passionate web developer with experience in creating responsive and user-friendly websites. My skills include front-end development with HTML, CSS, and JavaScript, as well as back-end development with PHP and MySQL.</p>
         </div>
     </section>
 
@@ -58,10 +58,47 @@
         </div>
     </section>
 
+    <section id="skills">
+        <h2>Skills & Technologies</h2>
+        <div class="skills-container">
+            <div class="skill-category">
+                <h3>Front-end</h3>
+                <ul class="skills-list">
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                    <li>Bootstrap</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Back-end</h3>
+                <ul class="skills-list">
+                    <li>PHP</li>
+                    <li>MySQL</li>
+                    <li>RESTful APIs</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Tools & Others</h3>
+                <ul class="skills-list">
+                    <li>Git & GitHub</li>
+                    <li>VS Code</li>
+                    <li>XAMPP</li>
+                    <li>Responsive Design</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
     <section id="contact">
         <h2>Contact Me</h2>
         <div class="contact-content">
             <p>Get in touch with me at: <a href="mailto:parane.enzo@gmail.com">parane.enzo@gmail.com</a></p>
+            <div class="social-links">
+                <a href="https://github.com/EnzoSoti" target="_blank" class="social-icon">GitHub</a>
+                <a href="https://www.linkedin.com/in/enzo-daniela-685374324/" target="_blank" class="social-icon">LinkedIn</a>
+            </div>
         </div>
     </section>
 

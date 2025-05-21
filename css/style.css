@@ -130,6 +130,73 @@ h2 {
     background-color: #0056b3;
 }
 
+/* Skills section */
+.skills-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.skill-category {
+    background: #fff;
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    min-width: 250px;
+    text-align: center;
+}
+
+.skill-category h3 {
+    margin-bottom: 1rem;
+    color: #007bff;
+}
+
+.skills-list {
+    list-style-type: none;
+}
+
+.skills-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.skills-list li:last-child {
+    border-bottom: none;
+}
+
+/* Social links */
+.social-links {
+    margin-top: 1.5rem;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.social-icon:hover {
+    background-color: #007bff;
+}
+
+/* Fix for navigation when new section is added */
+nav ul {
+    padding: 1rem;
+    flex-wrap: wrap;
+}
+
+#skills {
+    background-color: #f8f9fa;
+}
+
 /* Contact section */
 .contact-content {
     text-align: center;
